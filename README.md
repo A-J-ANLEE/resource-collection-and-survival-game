@@ -44,7 +44,7 @@ Sound effects play **only for 1 second**, regardless of the full clip duration. 
 
 2. Run the game:
     ```bash
-    python main.py
+    python game.py
     ```
 
 3. Enjoy playing!
